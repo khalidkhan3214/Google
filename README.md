@@ -1,2 +1,0 @@
-# Google
-Introduction to Github
